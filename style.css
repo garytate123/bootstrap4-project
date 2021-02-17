@@ -1,0 +1,16 @@
+.image {
+  width: 50%;
+  height: 50%;
+}
+
+aside {
+  padding: 3%;
+}
+
+footer {
+  background-color: #e9ecef;
+  clear: both;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 1%;
+}
