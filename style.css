@@ -1,10 +1,31 @@
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+body {
+  text-align: center;
+}
+
+.navbar {
+  padding: 2%;
+}
+
+.jumbotron {
+  text-align: left;
+}
+
 .image {
   width: 50%;
   height: 50%;
 }
 
 aside {
-  padding: 3%;
+  text-align: center;
+  padding: 3% 10%;
+}
+hr {
+  width: 80%;
 }
 
 footer {
