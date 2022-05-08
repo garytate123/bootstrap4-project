@@ -27,9 +27,9 @@
         <section class="jumbotron">
           <h1 class="display-4">Hello, animal lovers!</h1>
           <p class="lead">
-            Here is a website that uses Bootstrap 4. The idea is to create a
-            website that uses Bootstrap to show of some amazing animals. Don't
-            worry, there are no photos of cats!
+            This is an extremely simple website with one main objective. It's
+            got nothing to do with animals really, but everything to do with
+            showing off some Bootstrap 4 components.
           </p>
           <hr class="my-4" />
           <p>
@@ -208,7 +208,13 @@
 
     <div class="container-fluid">
       <footer>
-        <p>Created by Gary Tate &copy; 2021</p>
+        <p>
+          Created by Gary Tate &copy;
+          <script>
+            var CurrentYear = new Date().getFullYear();
+            document.write(CurrentYear);
+          </script>
+        </p>
       </footer>
     </div>
     <script
