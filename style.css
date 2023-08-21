@@ -1,5 +1,5 @@
 body {
-  text-align: centre;
+  text-align: center;
 }
 
 .navbar {
@@ -21,7 +21,7 @@ body {
 }
 
 aside {
-  text-align: centre;
+  text-align: center;
   padding: 3% 10%;
 }
 
@@ -33,7 +33,7 @@ footer {
   background-color: #e9ecef;
   clear: both;
   padding: 2rem;
-  text-align: centre;
+  text-align: center;
   margin-top: 1%;
 }
 
