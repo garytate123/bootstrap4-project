@@ -8,12 +8,12 @@ The challenge is to design and develop a website using Bootstrap 4 as the primar
 ## Technologies Used
 In this project, I utilised the following technologies:
 
-- HTML: To create the structure and content for the website.
+- **HTML:** To create the structure and content for the website.
 
-- CSS: To style the website.
+- **CSS:** To style the website.
 
-- Bootstrap 4: Leverage the power of Bootstrap 4's components, grid system, and responsiveness
+- **Bootstrap 4:** Leverage the power of Bootstrap 4's components, grid system, and responsiveness
 
-- JavaScript: To implement interactivity and dynamic behaviour to the website.
+- **JavaScript:** To implement interactivity and dynamic behaviour to the website.
 
-- Git: For version control, allowing for tracking changes.
+- **Git:** For version control, allowing for tracking changes.
